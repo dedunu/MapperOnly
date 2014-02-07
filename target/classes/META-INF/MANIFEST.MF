@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: dedunu
+Build-Jdk: 1.7.0_45
+Class-Path: hadoop-core-1.2.0.jar commons-cli-1.2.jar xmlenc-0.52.jar 
+ jersey-core-1.8.jar jersey-json-1.8.jar jettison-1.1.jar stax-api-1.0
+ .1.jar jaxb-impl-2.2.3-1.jar jaxb-api-2.2.2.jar stax-api-1.0-2.jar ac
+ tivation-1.1.jar jackson-core-asl-1.7.1.jar jackson-jaxrs-1.7.1.jar j
+ ackson-xc-1.7.1.jar jersey-server-1.8.jar asm-3.1.jar commons-io-2.1.
+ jar commons-httpclient-3.0.1.jar junit-3.8.1.jar commons-logging-1.0.
+ 3.jar commons-codec-1.4.jar commons-math-2.1.jar commons-configuratio
+ n-1.6.jar commons-collections-3.2.1.jar commons-lang-2.4.jar commons-
+ digester-1.8.jar commons-beanutils-1.7.0.jar commons-beanutils-core-1
+ .8.0.jar commons-net-1.4.1.jar jetty-6.1.26.jar servlet-api-2.5-20081
+ 211.jar jetty-util-6.1.26.jar jasper-runtime-5.5.12.jar jasper-compil
+ er-5.5.12.jar jsp-api-2.1-6.1.14.jar servlet-api-2.5-6.1.14.jar jsp-2
+ .1-6.1.14.jar ant-1.6.5.jar commons-el-1.0.jar jets3t-0.6.1.jar hsqld
+ b-1.8.0.10.jar oro-2.0.8.jar core-3.1.1.jar jackson-mapper-asl-1.8.8.
+ jar
+Main-Class: org.dedunumax.mapperOnly.App
+Created-By: Maven Integration for Eclipse
+
